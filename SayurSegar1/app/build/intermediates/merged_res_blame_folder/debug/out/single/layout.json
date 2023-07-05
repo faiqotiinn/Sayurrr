@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.sayursegar.app-mergeDebugResources-3:\\layout\\content_main.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.sayursegar.app-main-6:\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.sayursegar.app-mergeDebugResources-3:\\layout\\fragment_second.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.sayursegar.app-main-6:\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.sayursegar.app-mergeDebugResources-3:\\layout\\item_fresh.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.sayursegar.app-main-6:\\layout\\item_fresh.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.sayursegar.app-mergeDebugResources-3:\\layout\\fragment_first.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.sayursegar.app-main-6:\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "com.example.sayursegar.app-mergeDebugResources-3:/layout/fragment_second.xml",
+        "source": "com.example.sayursegar.app-main-6:/layout/fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.sayursegar.app-mergeDebugResources-3:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.sayursegar.app-main-6:\\layout\\activity_main.xml"
+    }
+]
